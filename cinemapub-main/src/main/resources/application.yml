@@ -1,8 +1,8 @@
 spring:
   datasource:
-    url: jdbc:mysql://localhost:3306/movie_db?useSSL=false
-    username: root
-    password:
+    url:jdbc:mysql://localhost:3306/heroku_f3d0422501771cc?useSSL=false
+    username:b18e6e1da00334
+    password:b9819350
 
   mvc:
     pathmatch:
